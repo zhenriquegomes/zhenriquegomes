@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on backend with Python
 - 🌱 I’m currently learning Golang
 
-![zhenriquegomes's Stats](https://github-readme-stats.vercel.app/api?username=zhenriquegomes&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ![zhenriquegomes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhenriquegomes&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 
